@@ -78,4 +78,22 @@ module.exports = appendSectionsToNote;
 2024-05-27T23:42:29.697Z - onsimius: !fetch
 2024-05-27T23:42:30.161Z - ScriBot: Fetched and saved all messages to channel_messages.txt
 2024-05-28T00:28:31.981Z - onsimius: !fetch
-2024-05-28T00:28:32.785Z - ScriBot: Fetched and saved all messages to channel_messages.txt2024-05-28T01:19:04.885Z - onsimius: test
+2024-05-28T00:28:32.785Z - ScriBot: Fetched and saved all messages to channel_messages.txt
+2024-05-28T01:29:31.260Z - ScriBot: Started recording in the voice channel Télétubies!
+2024-05-28T01:32:35.418Z - ScriBot: Started recording in the voice channel Télétubies!
+2024-05-28T01:35:10.117Z - ScriBot: Started recording in the voice channel Télétubies!
+2024-05-28T01:37:52.117Z - ScriBot: Started recording in the voice channel Télétubies!
+2024-05-28T01:39:42.614Z - ScriBot: Started recording in the voice channel Télétubies!
+2024-05-28T01:41:45.383Z - ScriBot: Started recording in the voice channel Télétubies!
+2024-05-28T01:43:36.360Z - ScriBot: The bot is not in a voice channel.
+2024-05-28T01:43:46.337Z - ScriBot: Started recording in the voice channel Télétubies!
+2024-05-28T01:47:29.134Z - onsimius: aa
+2024-05-28T01:47:32.603Z - onsimius: aa
+2024-05-28T01:47:42.235Z - onsimius: a
+2024-05-28T01:48:36.559Z - onsimius: d2024-05-28T01:49:14.348Z - onsimius: a
+2024-05-28T01:49:22.485Z - onsimius: aaae
+2024-05-28T01:49:25.257Z - onsimius: zez
+2024-05-28T01:52:15.956Z - onsimius: azeaze
+2024-05-28T02:18:39.767Z - onsimius: zer
+2024-05-28T02:18:44.493Z - onsimius: ezr
+2024-05-28T02:33:38.671Z - onsimius: ze
