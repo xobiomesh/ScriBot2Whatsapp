@@ -1,0 +1,1 @@
+2021-01-21T20:16:08.413Z - onsimius: https://journalducoin.com/actualites/banque-france-euro-numerique-test-2-millions/

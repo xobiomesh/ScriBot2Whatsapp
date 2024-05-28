@@ -9,3 +9,9 @@ Bonjour Charles, esr ce que tu peux communiquer le relevé de l, électricité d
 Merci ! Bisous
 Rob et Elysée
 2024-05-28T00:29:56.771Z - onsimius: !fetch
+2024-05-28T00:35:42.236Z - ScriBot: Fetched and saved all messages to channel_messages.txt
+2024-05-28T00:41:22.063Z - ScriBot: Fetched and saved all messages to nuclear_messages.txt
+2024-05-28T00:41:32.819Z - onsimius: hi there
+2024-05-28T00:43:07.516Z - onsimius: now what
+2024-05-28T00:43:12.222Z - onsimius: and
+2024-05-28T00:47:03.119Z - onsimius: record

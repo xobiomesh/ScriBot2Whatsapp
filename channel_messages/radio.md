@@ -1,0 +1,1 @@
+2022-11-18T14:53:11.366Z - onsimius: https://hackaday.com/2022/11/15/getting-to-the-heart-of-a-baofeng/
