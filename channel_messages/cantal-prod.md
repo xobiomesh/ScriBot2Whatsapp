@@ -61,7 +61,7 @@ INTRO
 ++plan de coupe nuit nui tombe hiboux etc..
 ++ sabotage z3
 +- WONG technicien (sous titres) WONG TONG pleaux se fais pourrir (se fait filmer dans la pub, mal habillé et coiffé, image de merde, ca avance pas je t'envoie des hommes)
-2020-03-23T13:43:19.184Z - onsimius:  [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/691643242055204874/IMG_20191027_201057.jpg?ex=6655df77&is=66548df7&hm=98e311928b49f539719fc62fc2c418428dce005c12b4a2490f147c1ef2353adb&]
+2020-03-23T13:43:19.184Z - onsimius:  [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/691643242055204874/IMG_20191027_201057.jpg?ex=665730f7&is=6655df77&hm=04c35ed03be86a9c857aa3138e27af2e263f8edfc1925821e8461948e429c937&]
 2020-03-23T14:20:05.682Z - onsimius: https://pad.aquilenet.fr/p/9fpq-salers_cassis?lang=fr
 2020-03-24T17:59:26.130Z - onsimius: !stop
 2020-03-24T18:46:30.193Z - meuhhhhhhhh: Je suis là
@@ -69,7 +69,7 @@ INTRO
 2020-03-24T18:46:52.020Z - meuhhhhhhhh: juste une mention rapide dans une conversation
 2020-03-24T18:47:26.972Z - meuhhhhhhhh: Il faut limiter la casse des scenes qu'il reste a filmer
 2020-03-24T18:47:29.949Z - meuhhhhhhhh: Je t'entends
-2020-03-28T23:49:29.716Z - onsimius: Version detaillée [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/693607731080331304/message.txt?ex=66566d89&is=66551c09&hm=b14bad0ce621ad273a04b7b0d06bc58665953986bc3a7d6d1f08ba275c6cc697&]
+2020-03-28T23:49:29.716Z - onsimius: Version detaillée [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/693607731080331304/message.txt?ex=66571649&is=6655c4c9&hm=9dcd1e0486fc7230f641124a1e72e813496952fe672d7b80748960463f5b6db5&]
 2020-03-29T00:31:48.136Z - onsimius: Salers Cassis
 
 - Voix Jose / plan drone / shanghai / main sur flambeau
@@ -122,7 +122,7 @@ Chercheuse : Pour augmenter la production il me faudrait trouver une source de 
 Wong (l’engeule)
 
 Chercheuse :  oui maître entendu je ferai de mon mieux
-2020-04-14T11:30:25.622Z - onsimius:  [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/699582331673116672/unknown.png?ex=66566911&is=66551791&hm=4c349d19f7c41dc986f74a59073a60563a82b9850d33aa4d083a77268fcad636&]
+2020-04-14T11:30:25.622Z - onsimius:  [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/699582331673116672/unknown.png?ex=665711d1&is=6655c051&hm=7bd7fc78d3de637db987ab0bb4508110ee493fcafc0782d8ba5aa97c39627127&]
 2020-04-15T10:54:24.900Z - meuhhhhhhhh: Yo je peux essayer de vous faire une compile de musique pour le film? Je n'ai pas fait grand chose niveau montage, mais la musique ça me botterait bien 🙂
 2020-04-15T10:55:09.504Z - onsimius: MORNING
 2020-04-15T10:55:24.668Z - meuhhhhhhhh: Envoyez les suggestions si vous en avez of course, ou si vous avez déjà choisi des tracks pour des scènes spéciales
@@ -140,7 +140,7 @@ Chercheuse :  oui maître entendu je ferai de mon mieux
 2020-04-15T11:00:55.142Z - meuhhhhhhhh: Ah, j'avais rien compris. Je croyais que tu disais que tu étais sur la musique.
 2020-04-15T11:01:02.902Z - meuhhhhhhhh: On voit ça après
 2020-04-15T11:12:27.417Z - onsimius: Besoins d'idéespour le bandeau defilant du flash info et le titre du journal
-2020-04-15T11:27:08.098Z - onsimius:  [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/699943890848841798/unknown.png?ex=6656684b&is=665516cb&hm=c1a9c183d9d903e06ccddda3e869106a7a3df5bc2896ad5fb7dcb4899eaf9e74&]
+2020-04-15T11:27:08.098Z - onsimius:  [Attachment: https://cdn.discordapp.com/attachments/641198786244509697/699943890848841798/unknown.png?ex=6657110b&is=6655bf8b&hm=bffd719d2e9b63ab1256dade8dd1312a4d9c023b7ba94e5165ab6677b47ef7e5&]
 2020-04-15T12:49:45.021Z - meuhhhhhhhh: Ben c'est bien ça déjà non?
 2020-04-15T12:54:32.291Z - meuhhhhhhhh: "Diplomatie: Mise en examen de l'ambassadeur de Corrèze du Nord pour corruption"
 " 'Jamais je n'ai entendu parlé de cette jeune vache" -Ambassadeur de Corrèze du Nord"
@@ -160,3 +160,5 @@ On raconte qu'il existe au sein de ce pays, une source d'eau mystique au propri�
 2021-06-09T22:15:42.321Z - onsimius: https://www.youtube.com/watch?v=Rp6YJRVmZQU
 2021-06-25T10:16:26.650Z - onsimius: How to create a STOP-MOTION look in Premiere Pro: https://youtu.be/zehcGNEWjv4
 2021-06-25T15:38:16.085Z - onsimius: https://www.youtube.com/watch?v=n69KEZNYNzw
+2024-05-28T22:22:38.315Z - onsimius: ho
+2024-05-28T22:23:28.467Z - onsimius: hohoh
