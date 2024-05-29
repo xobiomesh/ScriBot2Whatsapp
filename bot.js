@@ -2,6 +2,7 @@ require('dotenv').config();
 const { Client, GatewayIntentBits, Events, ChannelType } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
+const { spawn } = require('child_process');
 const { joinVoiceChannel, getVoiceConnection, VoiceReceiver, EndBehaviorType, VoiceConnectionStatus } = require('@discordjs/voice');
 const prism = require('prism-media');
 const ffmpeg = require('fluent-ffmpeg');
@@ -216,6 +217,24 @@ client.on(Events.MessageCreate, message => {
 
         const logMessage = formatMessage(message) + '\n';
         fs.appendFileSync(filePath, logMessage);
+
+        // Forward the message to WhatsApp
+        const recipientName = 'Dav35'; // Replace with the actual recipient name
+        const pythonScriptPath = path.join(__dirname, 'autoSendWhatsappMessage.py');
+        
+        const pythonProcess = spawn('python', [pythonScriptPath, recipientName, message.content]);
+        
+        pythonProcess.stdout.on('data', (data) => {
+            console.log(`stdout: ${data}`);
+        });
+        
+        pythonProcess.stderr.on('data', (data) => {
+            console.error(`stderr: ${data}`);
+        });
+        
+        pythonProcess.on('close', (code) => {
+            console.log(`child process exited with code ${code}`);
+        });
     }
 });
 
