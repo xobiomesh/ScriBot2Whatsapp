@@ -21,4 +21,4 @@ And forwards any message to Dav35 (for now) 💬📩
 
 ---
 
-For converting the recordings, install the ffmpeg library on the system running the bot 🎧🔉
+❗ For converting the recordings, install the ffmpeg library on the system running the bot 🎧🔉
